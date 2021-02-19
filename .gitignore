@@ -1,0 +1,1 @@
+git remote add stage git@heroku.com:git@github.com:bikishov/manager-backend.git
